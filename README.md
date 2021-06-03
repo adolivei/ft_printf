@@ -3,6 +3,11 @@ Recreation of stdio printf function.
 
 Handles:
 
-  c, d, i, u, s, p, x, X and % specifiers | 
-  +, -, 0 and ' ' flags | 
-  width and precision fields
+c, d, i, u, s, p, x, X and % specifiers.
+
++, -, 0 and ' ' flags.
+
+width and precision fields.
+
+
+References: http://www.cplusplus.com/reference/cstdio/printf/
